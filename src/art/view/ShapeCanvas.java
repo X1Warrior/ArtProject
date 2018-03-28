@@ -33,6 +33,6 @@ package art.view;
 		
 		public ShapeCanvas(ArtController app)
 		{
-			
+			super();
 		}
 }
